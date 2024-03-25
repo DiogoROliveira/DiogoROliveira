@@ -3,7 +3,7 @@
 <br/>
 
 <div align="center">
- Computer Science student at <a href=https://www.ipvc.pt/ target="IPVC"></a>
+ Computer Science student at <a href=https://www.ipvc.pt/ target="_blank">IPVC</a>
 
 </div>
  
