@@ -12,9 +12,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,typescript,angular,latex,python"/>
+    <img src="https://skillicons.dev/icons?i=html,css,typescript,angular,nodejs,python"/>
  <br/>
     <img src="https://skillicons.dev/icons?i=docker,cs,c,java,postgres,unity" /><br>
+    <img src="https://skillicons.dev/icons?i=js,figma,git,npm" /><br>
 </div>
 
 <br/>
