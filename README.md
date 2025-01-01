@@ -12,11 +12,19 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,typescript,angular,nodejs,python"/>
- <br/>
-    <img src="https://skillicons.dev/icons?i=docker,cs,c,java,postgres,unity" /><br>
-    <img src="https://skillicons.dev/icons?i=js,figma,git,npm" /><br>
+    <h3>Programming Languages</h3>
+    <img src="https://skillicons.dev/icons?i=c,cs,java,python,php,nodejs,ts,js" /> 
+    <h3>Frontend Development</h3>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,vue,angular,svelte,vite" /> 
+    <h3>Backend Frameworks</h3>
+    <img src="https://skillicons.dev/icons?i=dotnet,spring,django,laravel,express" />
+    <img src="https://skillicons.dev/icons?i=unity,maven,npm" />
+    <h3>Databases</h3>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,firebase,sqlite" />
+    <h3>Tools & DevOps</h3>
+    <img src="https://skillicons.dev/icons?i=docker,git,postman,rabbitmq,graphql,figma" />
 </div>
+
 
 <br/>
 <hr/>
