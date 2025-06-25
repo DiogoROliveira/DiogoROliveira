@@ -13,7 +13,7 @@
 <br/>
 <div align="center">
     <h3>Programming Languages</h3>
-    <img src="https://skillicons.dev/icons?i=c,cs,java,python,php,nodejs,ts,js" /> 
+    <img src="https://skillicons.dev/icons?i=c,cs,java,kotlin,python,php,nodejs,ts,js" /> 
     <h3>Frontend Development</h3>
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,vue,angular,svelte,vite" /> 
     <h3>Backend Frameworks</h3>
